@@ -1,2 +1,2 @@
 # SamplePairManager
-Sample target for web scraping
+This is a sample target for web scraping.
