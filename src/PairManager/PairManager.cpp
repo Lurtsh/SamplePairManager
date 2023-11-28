@@ -1,4 +1,4 @@
-#include "PairManager/PairManager.h"
+#include "PairManager/PairManager.hpp"
 
 namespace PairManager {
 
